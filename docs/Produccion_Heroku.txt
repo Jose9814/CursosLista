@@ -1,0 +1,20 @@
+Para utilizar Heroku como host de produccion, se deben seguir los siguientes pasos:
+
+1.- Crear cuenta en Heroku con correo y contraseña personales.
+2.- Loguearse en Heroku
+3.- Crear cuenta en GitHub
+4.- Loguearse con GitHub
+5.- Instalar Node Js
+6.- Instalar Git
+
+7.- Una vez logueados en Heroku, debemos dar click en CREATE NEW APP
+8.- Despues le damos un nombre a la App name
+9.- Por ultimo damos en Create app
+
+10.- Para instalar Heroku, debemos ir al Terminal de nuestro Visual Code y abrir el terminal de GIT.
+11.- En el terminal debemos poner el siguiente comando: npm uninstall -g heroku-cli
+12.- Despues esperar a que cargue y poner el siguiente comando: npm i -g heroku
+13.- Despues de esperar a que termine y dar el comando: clear
+14.- Digitar el comando heoroku login y despues presionar cualquier tecla para continuar
+15.- Despues se nos abrira en el navegador una pagina de heroku y debemos dar en Login y automaticamente se nos logueara.
+16.- 

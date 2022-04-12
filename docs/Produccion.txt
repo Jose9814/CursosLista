@@ -1,0 +1,4 @@
+//Indicaciones para subir proyecto a produccion
+
+* Se debe cambiar la conexion de la base de datos a produccion
+* Se debe comprimir toda la carpeta del proyecto en .ZIP, no en RAR ya que no funcionara.
