@@ -17,4 +17,8 @@ Para utilizar Heroku como host de produccion, se deben seguir los siguientes pas
 13.- Despues de esperar a que termine y dar el comando: clear
 14.- Digitar el comando heoroku login y despues presionar cualquier tecla para continuar
 15.- Despues se nos abrira en el navegador una pagina de heroku y debemos dar en Login y automaticamente se nos logueara.
-16.- 
+16.- Despues debemos subir nuestro Proyecto a GitHub 
+17.- Debemos digitar los siguientes comandos: git add assets -> carpeta
+18.- Despues git commit -m "Titulo del comit"
+19.- Despues git push para subir los archivos modificados.
+20.- 
